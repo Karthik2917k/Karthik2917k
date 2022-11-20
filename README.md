@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Redux, Node JS, MongoDB , Express JS, Data Structure and Algorithm**
+- 🌱 I’m currently learning **MongoDB, Data Structure and Algorithm**
 
-- 💬 Ask me about **HTML,CSS ,JavaScript, React, Chakra-ui, Data Structure and Algorithm**
+- 💬 Ask me about **HTML,CSS ,JavaScript, React, Chakra-ui, Redux, Node JS,  Express JS, Data Structure and Algorithm**
 
 - 📫 How to reach me **karthikalakunta21@gmail.com**
 
