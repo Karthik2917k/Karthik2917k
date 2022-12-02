@@ -17,6 +17,8 @@
 <a href="https://codesandbox.io/u/Karthik2917k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Karthik" height="30" width="40" /></a>
 </p>
 
+
+
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
@@ -44,12 +46,15 @@
 
 <h2>:clipboard: Github Stats</h2>
 <div style="display: flex">
+
   <img height="200px" src="https://github-profile-trophy.vercel.app/?username=karthik2917k" alt="karthik" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default" alt="profile"/>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=karthik2917k&show_icons=true&locale=en" alt="Karthik" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik2917k" />
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=karthik2917k&" alt="Karthik" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karthik2917k&theme=default" alt="repolang"/>
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=karthik2917k&" alt="Karthik" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karthik2917k&theme=default" alt="toplang" />
+ 
 </div>
-  
 
 
 
