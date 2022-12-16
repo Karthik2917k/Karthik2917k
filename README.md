@@ -48,7 +48,7 @@
 <div style="display: flex">
 
   <img height="200px" src="https://github-profile-trophy.vercel.app/?username=karthik2917k" alt="karthik" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default" alt="profile"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthik2917k&theme=default" alt="profile"/>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=karthik2917k&show_icons=true&locale=en" alt="Karthik" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karthik2917k&theme=default" alt="repolang"/>
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=karthik2917k&" alt="Karthik" /> 
