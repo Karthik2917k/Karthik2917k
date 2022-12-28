@@ -8,7 +8,7 @@
 - 💬 Ask me about **HTML ,CSS , JavaScript, React, Chakra-ui, Redux, Node JS,  Express JS, MongoDB, Data Structure and Algorithm**
 
 - 📫 How to reach me **karthikalakunta21@gmail.com**
-- My <a target="_blank" href="https://github.com/Karthik2917k/Karthik2917k.github.io/blob/gh-pages/assets/Karthik-Alakunta-Resume.pdf">Resume</a>
+- My <a target="blank" href="https://drive.google.com/file/d/1T91PahLaInuTS6za3OwvctY__6ZZ1W9h/view?usp=sharing">Resume</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/karthikalakunta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karthik" height="30" width="40" /></a>
