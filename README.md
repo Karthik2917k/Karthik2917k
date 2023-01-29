@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **HTML ,CSS , JavaScript, React, Chakra-ui, Redux, Node JS,  Express JS, MongoDB, Data Structure and Algorithm**
+- 💬 Ask me about **HTML ,CSS , JavaScript, React, tailwindcss, Chakra-ui, Redux, Node JS,  Express JS, MongoDB, Data Structure and Algorithm**
 
 - 📫 How to reach me **karthikalakunta21@gmail.com**
 - My <a href="https://drive.google.com/file/d/1T91PahLaInuTS6za3OwvctY__6ZZ1W9h/view?usp=sharing"  target="blank">Resume</a>
