@@ -8,7 +8,6 @@
 - 💬 Ask me about **HTML ,CSS , JavaScript, React, tailwindcss, Chakra-ui, Redux, Node JS,  Express JS, MongoDB, Data Structure and Algorithm**
 
 - 📫 How to reach me **karthikalakunta21@gmail.com**
-- My <a href="https://drive.google.com/file/d/1T91PahLaInuTS6za3OwvctY__6ZZ1W9h/view?usp=sharing"  target="blank">Resume</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/karthikalakunta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karthik" height="30" width="40" /></a>
